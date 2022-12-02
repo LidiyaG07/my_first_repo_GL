@@ -2,5 +2,4 @@
 # Мой первый репозиторий
 
 Added текст локально.
-
-Added text remote.
+Added text remote. Added eng text in browser.
