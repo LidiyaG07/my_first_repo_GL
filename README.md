@@ -11,3 +11,6 @@ Added text remote. Added eng text in browser.
 ## Картинки
 Это яблоко
 ![Это яблоко](apple.jpg)
+
+Это апельсин
+![Это апельсин!](orange.jpg)
