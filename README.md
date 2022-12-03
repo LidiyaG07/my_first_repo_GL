@@ -9,5 +9,5 @@ Added текст локально.
 Added text remote. Added eng text in browser.
 
 ## Картинки
-Это яблоко
+Это яблоко. This is apple.
 ![Это яблоко](apple.jpg)
