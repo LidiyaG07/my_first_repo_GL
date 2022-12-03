@@ -14,7 +14,9 @@ Added text remote. Added eng text in browser.
 ![Это яблоко](apple.jpg)
 
 Это апельсин
+
 ![Это апельсин!](orange.jpg)
+
 
 Апельсин это фрукт. Очень сочный и полезный.
 
