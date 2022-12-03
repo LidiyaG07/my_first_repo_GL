@@ -8,3 +8,6 @@ Added text remote.
 Added текст локально.
 Added text remote. Added eng text in browser.
 
+## Картинки
+Это яблоко
+![Это яблоко](apple.jpg)
